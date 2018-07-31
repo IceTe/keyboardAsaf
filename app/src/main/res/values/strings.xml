@@ -1,0 +1,5 @@
+ <resources>
+     <string name="app_name">keyboardASAF</string>
+        <string name="asaf_grenier">ASAF GRENIER</string>
+        <string name="subtype_en_US">ASAF (US)</string>
+    </resources>
